@@ -154,3 +154,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/color_enhance_test/lxq_420.yuv
+/color_enhance_test/lxq_420ce.yuv
+/color_enhance.VC.VC.opendb
+/color_enhance.VC.db
